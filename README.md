@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, i`m Vadim 👋
 
-<!--
-**Replika96/Replika96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I`m currently learning Kotlin.  
+**Languages and tools**  
+<div id="badges">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>  
+          
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact**  
+
+Email: [tazmin.vadim31@gmail.com](mailto:tazmin.vadim31@gmail.com)
