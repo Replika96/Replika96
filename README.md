@@ -1,4 +1,4 @@
-# Hello, i`m Vadim 👋
+# Hello, La Passion
 
 I`m currently learning Kotlin.  
 **Languages and tools**  
@@ -12,7 +12,7 @@ I`m currently learning Kotlin.
   
 </div>
 
-
+---
 **Contact**  
 
-Email: [tazmin.vadim31@gmail.com](mailto:tazmin.vadim31@gmail.com)
+[tazmin.vadim31@gmail.com](mailto:tazmin.vadim31@gmail.com)
