@@ -16,5 +16,5 @@ I`m currently learning Kotlin.
 **Contact**  
 
 - [tazmin.vadim31@gmail.com](mailto:tazmin.vadim31@gmail.com)
-- [Telegram](https://t.me/username)
+- [Telegram](https://t.me/repliqant)
 
