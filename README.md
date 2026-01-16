@@ -14,6 +14,8 @@ I`m currently learning Kotlin.
 
 ---
 **Contact**  
+<div>
+  [tazmin.vadim31@gmail.com](mailto:tazmin.vadim31@gmail.com)
+  t.me/repliqant
+</div>
 
-[tazmin.vadim31@gmail.com](mailto:tazmin.vadim31@gmail.com)
-t.me/repliqant
