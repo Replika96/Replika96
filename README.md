@@ -1,4 +1,4 @@
-# Tazmin Vadim – Android Developer 
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30"/> Android Developer
 
 Kotlin-разработчик с фокусом на Jetpack Compose и Kotlin Multiplatform.
 Магистр ИТМО, Мобильные и облачные технологии.
