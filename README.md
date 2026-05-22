@@ -1,18 +1,19 @@
-# Hello, La Passion
+# Tazmin Vadim – Android Developer 
 
-I`m currently learning Kotlin.  
-**Languages and tools**  
-<div id="badges">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
-          
-</div>
+Kotlin-разработчик с фокусом на Jetpack Compose и Kotlin Multiplatform.
+Магистр ИТМО, Мобильные и облачные технологии.
 
----
-**Contact**  
+## Стек
 
+| Категория | Технологии |
+|-----------|------------|
+| Языки и платформы | Kotlin, KMP/CMP, Jetpack Compose |
+| Архитектура | Clean Architecture, MVVM |
+| Сеть и данные | Ktor, Retrofit, Room |
+| DI и асинхронность | Hilt, Koin, Coroutines, Flow |
+| Инфраструктура | Firebase, OAuth 2.0, Git, Docker, GitHub Actions |
+
+## Контакты
 - [tazmin.vadim31@gmail.com](mailto:tazmin.vadim31@gmail.com)
 - [Telegram](https://t.me/repliqant)
 
